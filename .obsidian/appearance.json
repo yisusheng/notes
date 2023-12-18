@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "translucency": false,
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "theme": "system"
 }

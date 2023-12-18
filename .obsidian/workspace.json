@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "29ea3ebbc6f61a67",
+        "id": "249d92dcba1797c0",
         "type": "tabs",
         "children": [
           {
-            "id": "1fc41dd984793e87",
+            "id": "35a4db6cfa184375",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023-12-18.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-12-18.md"
+              }
             }
           }
         ]
@@ -135,9 +143,17 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "1fc41dd984793e87",
-  "lastOpenFiles": []
+  "active": "33d725c3c2154d82",
+  "lastOpenFiles": [
+    "2023/2023-12/未命名.md",
+    "2023-12-18.md",
+    "202312181415.md",
+    "tempate.md",
+    "2023/2023-12",
+    "2023"
+  ]
 }
